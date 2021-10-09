@@ -1,0 +1,14 @@
+C:\Users\brion\source\repos\BringTheCat\BringTheCat\bin\Debug\BringTheCat.exe.config
+C:\Users\brion\source\repos\BringTheCat\BringTheCat\bin\Debug\BringTheCat.exe
+C:\Users\brion\source\repos\BringTheCat\BringTheCat\bin\Debug\BringTheCat.pdb
+C:\Users\brion\source\repos\BringTheCat\BringTheCat\obj\Debug\BringTheCat.Form1.resources
+C:\Users\brion\source\repos\BringTheCat\BringTheCat\obj\Debug\BringTheCat.Properties.Resources.resources
+C:\Users\brion\source\repos\BringTheCat\BringTheCat\obj\Debug\BringTheCat.csproj.GenerateResource.cache
+C:\Users\brion\source\repos\BringTheCat\BringTheCat\obj\Debug\BringTheCat.csproj.CoreCompileInputs.cache
+C:\Users\brion\source\repos\BringTheCat\BringTheCat\obj\Debug\BringTheCat.exe
+C:\Users\brion\source\repos\BringTheCat\BringTheCat\obj\Debug\BringTheCat.pdb
+C:\Users\brion\source\repos\BringTheCat\BringTheCat\bin\Debug\BringTheCat.exe.manifest
+C:\Users\brion\source\repos\BringTheCat\BringTheCat\bin\Debug\BringTheCat.application
+C:\Users\brion\source\repos\BringTheCat\BringTheCat\obj\Debug\BringTheCat.TrustInfo.xml
+C:\Users\brion\source\repos\BringTheCat\BringTheCat\obj\Debug\BringTheCat.exe.manifest
+C:\Users\brion\source\repos\BringTheCat\BringTheCat\obj\Debug\BringTheCat.application
